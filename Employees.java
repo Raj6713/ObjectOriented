@@ -10,7 +10,7 @@ public class Employees
 	{
 		fname=fn;
 		lname=ln;
-		birth=p1;
+		birth=p1.setDate;
 		hireDate=p2;
 	}
 
